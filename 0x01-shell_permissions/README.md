@@ -13,4 +13,5 @@
 9. John Doe: Write a script that sets the mode of the file hello to this:
 	-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 10. Look in the mirror: Write a script that sets the mode of the file hello the same as olleh’s mode.
-11.
+11. Directories: Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+12.

@@ -14,4 +14,5 @@
 	-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 10. Look in the mirror: Write a script that sets the mode of the file hello the same as olleh’s mode.
 11. Directories: Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
-12.
+12. More directories: Create a script that creates a directory called my-dir with permissions 751 in the working directory.
+13.
